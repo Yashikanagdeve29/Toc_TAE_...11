@@ -1,0 +1,6 @@
+{
+  "name": "GrammarFlow",
+  "description": "Visualize Leftmost and Rightmost Derivations step-by-step for Context-Free Grammars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
